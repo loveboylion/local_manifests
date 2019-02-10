@@ -1,1 +1,1 @@
-# local_manifests for Oneplus3
+# local_manifests for Oneplus & Xiaomi
