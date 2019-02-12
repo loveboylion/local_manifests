@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="loveboylion/android_device_yu_tomato" path="device/yu/tomato" remote="github" />
+  <project name="loveboylion/android_kernel_cyanogen_msm8916" path="kernel/cyanogen/msm8916" remote="github" />
+</manifest>
