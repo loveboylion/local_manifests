@@ -1,1 +1,1 @@
-local_manifests for Lenovo , Oneplus , Xiaomi & YU
+# local_manifests for vendor files of Lenovo , Oneplus , Xiaomi & YU
