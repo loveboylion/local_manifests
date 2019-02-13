@@ -1,1 +1,1 @@
-# local_manifests for Oneplus & Xiaomi
+local_manifests for Lenovo , Oneplus , Xiaomi & YU
